@@ -12,6 +12,3 @@ https://getaix.com/extension/tictactoe
 
 
 
-``Copyright (c) 2022 Horizon
-Extension is allowed to be just used by individuals. Modifying of source and reselling/redistribution is prohibited. If you want to share this extension to someone, post the link to this thread in the topic.
-``
