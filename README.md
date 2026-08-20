@@ -1,6 +1,6 @@
 
 <h1><img src="https://res.cloudinary.com/gadgetguru/image/upload/v1635307897/Extensions/MananSharma/Vorbind_Logo-removebg-preview%281%29.png.png" width="64" height="64" />
-    <a>TicTacToe | Free</a> </h1><p><b>You can use this extension for creating TicTacToe game. This extension has all the features that are needed for creating TicTacToe. This extens</b></p><div> </div><p><i>
+    <a>TicTacToe | Free</a> </h1><p><b>You can use this extension for creating TicTacToe game. This extension has all the features that are needed for creating TicTacToe.</b></p><div> </div><p><i>
     📦 20.75 KB
     <br />
     📁 io.horizon.tictactoe.TicTacToe  
